@@ -6,8 +6,7 @@
 #include <string> 
 #include <math.h>
 using std::string;
-#define DLLEXPORT __declspec(dllexport);
-#define C_DLL_EXPORT extern "C" __declspec(dllexport);
+
 
 namespace
 {

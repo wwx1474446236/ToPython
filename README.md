@@ -5,7 +5,9 @@ C++ to python, Python calls C ++ functions based on ./so dynamic link library On
 这是Linux上，基于八叉树精简算法的C++代码
 
 
-执行：
+Linux上 ctrl+Alt+T 打开终端，执行：
+
+
   g++ Octree.cpp -o oct
 
 
